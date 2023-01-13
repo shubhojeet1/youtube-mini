@@ -42,7 +42,7 @@ It is individual project where I've used ReactJS to make the Mini-Youtube. just 
 
 <br />
 
-## Mini-Youtube.com 🙈 :
+## Mini-Youtube.com  :
 
 
 
