@@ -1,5 +1,5 @@
 
-<h1 align="center">Gym.com</h1>
+<h1 align="center">youtube.com</h1>
 
 <h3 align="center">It is a youtube Clone with dark theme</h3>
 
@@ -20,11 +20,6 @@
 </p>
 
 
-<h4 align="center">Deployed On:</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-</p>
 
 <br />
 
@@ -114,16 +109,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <br />
 
 
-
-## Contact
-
-If you want to contact me, you can reach me through below handles. <br />
-[![linkedin](https://img.shields.io/badge/Monu_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monu-yadav-2003m/)
-[![GitHub](https://img.shields.io/badge/Monu_Yadav-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/monumarqiis)
-
-
-
-© 2022 Monu Yadav
 
 
 
